@@ -1,0 +1,16 @@
+C:\AYZPrograms\GuidCreater\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\AYZPrograms\GuidCreater\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\AYZPrograms\GuidCreater\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\AYZPrograms\GuidCreater\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\AYZPrograms\GuidCreater\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\AYZPrograms\GuidCreater\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\AYZPrograms\GuidCreater\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\AYZPrograms\GuidCreater\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\AYZPrograms\GuidCreater\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\AYZPrograms\GuidCreater\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\AYZPrograms\GuidCreater\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\AYZPrograms\GuidCreater\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\AYZPrograms\GuidCreater\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\AYZPrograms\GuidCreater\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\AYZPrograms\GuidCreater\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\AYZPrograms\GuidCreater\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
